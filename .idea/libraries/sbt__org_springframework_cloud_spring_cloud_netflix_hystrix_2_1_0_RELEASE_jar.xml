@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.springframework.cloud:spring-cloud-netflix-hystrix:2.1.0.RELEASE:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.springframework.cloud/spring-cloud-netflix-hystrix/jars/spring-cloud-netflix-hystrix-2.1.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.springframework.cloud/spring-cloud-netflix-hystrix/srcs/spring-cloud-netflix-hystrix-2.1.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
